@@ -1,0 +1,27 @@
+<students>
+  <student>
+    <student_id>1001</student_id>
+    <name>John Smith</name>
+    <age>17</age>
+  </student>
+  <student>
+    <student_id>1002</student_id>
+    <name>Amy Johnson</name>
+    <age>16</age>
+  </student>
+  <student>
+    <student_id>1003</student_id>
+    <name>Michael Lee</name>
+    <age>18</age>
+  </student>
+  <student>
+    <student_id>1004</student_id>
+    <name>Emily Davis</name>
+    <age>15</age>
+  </student>
+  <student>
+    <student_id>1005</student_id>
+    <name>David Wilson</name>
+    <age>17</age>
+  </student>
+</students>

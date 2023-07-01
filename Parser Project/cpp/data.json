@@ -1,0 +1,27 @@
+[
+  {
+    "student_id": 1001,
+    "name": "John Smith",
+    "age": 17
+  },
+  {
+    "student_id": 1002,
+    "name": "Amy Johnson",
+    "age": 16
+  },
+  {
+    "student_id": 1003,
+    "name": "Michael Lee",
+    "age": 18
+  },
+  {
+    "student_id": 1004,
+    "name": "Emily Davis",
+    "age": 15
+  },
+  {
+    "student_id": 1005,
+    "name": "David Wilson",
+    "age": 17
+  }
+]
